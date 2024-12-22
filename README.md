@@ -1,3 +1,5 @@
+![LOGO](https://ew.com/thmb/SpqVHh6pwaeIEqFO9hmVtMCiS4M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Spotify-089b80c169d44fcfa110aebc6801289f.jpg)
+
 ### Sumber Data
 Dataset berasal dari proyek [TidyTuesday](https://github.com/rfordatascience/tidytuesday) dan dikumpulkan menggunakan paket [`spotifyr`](https://github.com/charlie86/spotifyr). Data dirilis pada **21 Januari 2020** dan dapat diakses melalui tautan berikut:  
 [spotify_songs.csv](https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2020/2020-01-21/spotify_songs.csv).
