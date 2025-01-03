@@ -57,7 +57,7 @@ Dataset ini terdiri dari 19 variabel, termasuk:
 ---
 
 ## **Insights**
-[Summarize the key findings from your analysis, highlighting important patterns or trends.]
+
 
 ---
 
@@ -65,20 +65,14 @@ Dataset ini terdiri dari 19 variabel, termasuk:
 Proyek ini menggunakan beberapa dependensi untuk menjalankan analisis. Berikut adalah daftar dependensi yang diperlukan:
 
 pandas, versi 1.4.3
-openpyxl, versi 3.0.10
 numpy, versi 1.23.0
-numpy-stl, versi 2.17.1
 matplotlib, versi 3.5.2
-ipympl, versi 0.9.1
-jupyterlab, versi 3.4.4
-ipywidgets, versi 7.7.1
-tqdm, versi 4.64.0
+
 Catatan: Belum diuji sepenuhnya, namun bisa digunakan di lingkungan Python.
 
 ---
 
 ## **Usage**
-[Write this section yourself.]
 1. Clone Repository
 Clone repository ini :
     
