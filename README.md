@@ -6,17 +6,16 @@
 # <center>Eksplorasi Analisis Musik Spotify: Wawasan Mendalam tentang Genre, Fitur, dan Tren</center>
 
 ## **Table of Contents**
-1. [**Title**](#Title)
-2. [**Overview**](#Overview)
-3. [**Objective**](#Objective)
-4. [**Dataset**](#Dataset)
-5. [**Methodology**](#Methodology)
-6. [**Insights**](#Insights)
-7. [**Dependencies**](#Dependencies)
-8. [**Usage**](#Usage)
-9. [**Team Members**](#Team-Members)
-10. [**Repository Structure**](#Repository-Structure)
-11. [**References**](#References)
+1. [**Overview**](#Overview)
+2. [**Objective**](#Objective)
+3. [**Dataset**](#Dataset)
+4. [**Methodology**](#Methodology)
+5. [**Insights**](#Insights)
+6. [**Dependencies**](#Dependencies)
+7. [**Usage**](#Usage)
+8. [**Team Members**](#Team-Members)
+9. [**Repository Structure**](#Repository-Structure)
+10. [**References**](#References)
 
 
 ## **Overview**
