@@ -778,9 +778,9 @@ Install paket yang dibutuhkan:
     pip install -r requirements.txt
     ```
 3. Jalankan Jupyter Notebook
-Buka file analisisbigdata.ipynb dengan Jupyter:
+Buka file AnalysisSpotify.ipynb dengan Jupyter Notebook:
     ```
-    jupyter notebook analisisbigdata.ipynb
+    jupyter notebook AnalysisSpotify.ipynb
     ```
 4. Dataset
 Pastikan file `spotify_songs.csv` ada di direktori yang sama dengan notebook.
